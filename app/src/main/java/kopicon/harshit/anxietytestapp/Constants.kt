@@ -20,7 +20,7 @@ object Constants {
         val que1 = Question(
             1, "Feeling nervous, anxious or on edge?",
             R.drawable.ic_flag_of_argentina,
-            "Not al all", "Several days",
+            "Not at all", "Several days",
             "More than half the days", "Nearly every day", scoreOne = 0, scoreTwo = 1, scoreThree = 2, scoreFour = 3
         )
 
@@ -30,7 +30,7 @@ object Constants {
         val que2 = Question(
             2, "Not being able to stop or control worrying?",
             R.drawable.ic_flag_of_australia,
-            "Not al all", "Several days",
+            "Not at all", "Several days",
             "More than half the days", "Nearly every day", scoreOne = 0, scoreTwo = 1, scoreThree = 2, scoreFour = 3
         )
 
@@ -40,7 +40,7 @@ object Constants {
         val que3 = Question(
             3, "Worrying too much about different things?",
             R.drawable.ic_flag_of_brazil,
-            "Not al all", "Several days",
+            "Not at all", "Several days",
             "More than half the days", "Nearly every day", scoreOne = 0, scoreTwo = 1, scoreThree = 2, scoreFour = 3
         )
         questionsList.add(que3)
@@ -49,7 +49,7 @@ object Constants {
         val que4 = Question(
             4, "Trouble relaxing?",
             R.drawable.ic_flag_of_belgium,
-            "Not al all", "Several days",
+            "Not at all", "Several days",
             "More than half the days", "Nearly every day", scoreOne = 0, scoreTwo = 1, scoreThree = 2, scoreFour = 3
         )
         questionsList.add(que4)
@@ -58,7 +58,7 @@ object Constants {
         val que5 = Question(
             5, "Being so restless that it is hard to sit still?",
             R.drawable.ic_flag_of_fiji,
-            "Not al all", "Several days",
+            "Not at all", "Several days",
             "More than half the days", "Nearly every day", scoreOne = 0, scoreTwo = 1, scoreThree = 2, scoreFour = 3
         )
 
@@ -68,7 +68,7 @@ object Constants {
         val que6 = Question(
             6, "Becoming easily annoyed or irritable?",
             R.drawable.ic_flag_of_germany,
-            "Not al all", "Several days",
+            "Not at all", "Several days",
             "More than half the days", "Nearly every day", scoreOne = 0, scoreTwo = 1, scoreThree = 2, scoreFour = 3
         )
         questionsList.add(que6)
@@ -77,7 +77,7 @@ object Constants {
         val que7 = Question(
             7, "Feeling afraid as if something awful might happen?",
             R.drawable.ic_flag_of_denmark,
-            "Not al all", "Several days",
+            "Not at all", "Several days",
             "More than half the days", "Nearly every day", scoreOne = 0, scoreTwo = 1, scoreThree = 2, scoreFour = 3
         )
         questionsList.add(que7)
