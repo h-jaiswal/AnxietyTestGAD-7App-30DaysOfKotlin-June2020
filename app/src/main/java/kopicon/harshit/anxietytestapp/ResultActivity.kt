@@ -27,7 +27,7 @@ class ResultActivity : AppCompatActivity() {
         val totalScore = intent.getIntExtra(Constants.TOTAL_SCORE, 0)
 
 
-        tv_score.text = "Your Score is $totalScore out of 21."
+        tv_score.text = "Your Total Score is $totalScore out of 21."
 
         btn_finish.setOnClickListener {
             startActivity(Intent(this@ResultActivity, MainActivity::class.java))
